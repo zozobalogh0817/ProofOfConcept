@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "LjxvmUMSiG2WCX6QjMMwyvVnViVQeKYoc85ca8sMkHonVRWFE/EToBDWmyWwaPPAywCtvnR7mWj01PxSb/pSMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zolika\\RiderProjects\\MongoDbPOC\\WebApplication\\WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zolika\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.0.0-preview3\\microsoft.aspnetcore.odata.8.0.0-preview3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\microsoft.odata.core\\7.7.3\\microsoft.odata.core.7.7.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\microsoft.odata.edm\\7.7.3\\microsoft.odata.edm.7.7.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.5\\microsoft.odata.modelbuilder.1.0.5.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\microsoft.spatial\\7.7.3\\microsoft.spatial.7.7.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\serialize.linq\\2.0.0\\serialize.linq.2.0.0.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\zolika\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
